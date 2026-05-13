@@ -1,0 +1,115 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "E:/Ali's-portfolio/src/styles.css": {
+    "file": "assets/styles-6SD1GO58.css",
+    "src": "E:/Ali's-portfolio/src/styles.css"
+  },
+  "_icons-BaiXR8I7.js": {
+    "file": "assets/icons-BaiXR8I7.js",
+    "name": "icons",
+    "imports": [
+      "_motion-CItmpJlh.js"
+    ]
+  },
+  "_motion-CItmpJlh.js": {
+    "file": "assets/motion-CItmpJlh.js",
+    "name": "motion"
+  },
+  "_server-BJF9T5_C.js": {
+    "file": "assets/server-BJF9T5_C.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "imports": [
+      "_motion-CItmpJlh.js",
+      "_three-BtqM4Udt.js"
+    ],
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/router.tsx",
+      "src/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_three-BtqM4Udt.js": {
+    "file": "assets/three-BtqM4Udt.js",
+    "name": "three",
+    "imports": [
+      "_motion-CItmpJlh.js"
+    ]
+  },
+  "_worker-entry-DMIl7nk3.js": {
+    "file": "assets/worker-entry-DMIl7nk3.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-BJF9T5_C.js"
+    ]
+  },
+  "src/components/portfolio/AppleSections.tsx": {
+    "file": "assets/AppleSections-BMGi5b4j.js",
+    "name": "AppleSections",
+    "src": "src/components/portfolio/AppleSections.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_motion-CItmpJlh.js",
+      "_icons-BaiXR8I7.js"
+    ]
+  },
+  "src/components/portfolio/Scene3D.tsx": {
+    "file": "assets/Scene3D-Kryjwl0X.js",
+    "name": "Scene3D",
+    "src": "src/components/portfolio/Scene3D.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_motion-CItmpJlh.js",
+      "_three-BtqM4Udt.js"
+    ]
+  },
+  "src/router.tsx": {
+    "file": "assets/router-DzWw4wNV.js",
+    "name": "router",
+    "src": "src/router.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-BJF9T5_C.js",
+      "_motion-CItmpJlh.js",
+      "_three-BtqM4Udt.js",
+      "_icons-BaiXR8I7.js"
+    ],
+    "dynamicImports": [
+      "src/components/portfolio/Scene3D.tsx",
+      "src/components/portfolio/AppleSections.tsx"
+    ],
+    "assets": [
+      "assets/styles-6SD1GO58.css"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-CtldS2aI.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DMIl7nk3.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-BXnBTq_Y.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-DMIl7nk3.js"
+    ]
+  }
+}
