@@ -83,7 +83,7 @@ const experience = [
     year: "june 2025 - Now",
     role: "Blockchain Developer",
     org: "Future Swords",
-    desc: "Focused on designing and implementing secure, scalable blockchain solutions. I work on smart contract development, decentralized application architecture, and integration of blockchain systems into real-world use cases.",
+    desc: "",
   },
   
 ];
@@ -130,22 +130,20 @@ export function AppleSections() {
               About
             </p>
             <h2 className="text-[clamp(2rem,5vw,4rem)] font-semibold tracking-tight leading-[1.05] text-gradient">
-              Engineer behind production Web3.
+              Engineering quiet machines that move billions.
             </h2>
             <p className="mt-8 text-lg md:text-xl text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto">
-              I design and ship high-performance backends for blockchain and DeFi
-              systems. My work spans Rust microservices handling real-time market
-              data, smart contracts across EVM and Solana, and distributed
-              infrastructure built for scale.
+              Eight years across Rust, Solidity and distributed systems. I optimize for
+              correctness first, throughput second - and developer joy throughout.
             </p>
           </Reveal>
 
           <Reveal delay={0.15}>
             <div className="mt-16 glass-strong rounded-3xl p-10 grid grid-cols-3 gap-6 text-left">
               {[
-                { k: "Rust", v: "Backend systems" },
-                { k: "Web3", v: "Smart contracts" },
-                { k: "Scale", v: "Production infrastructure" },
+                { k: "8+", v: "Years engineering" },
+                { k: "$120M", v: "Value secured" },
+                { k: "30+", v: "Protocols shipped" },
               ].map((s) => (
                 <div key={s.v}>
                   <div className="text-3xl md:text-4xl font-semibold text-white">{s.k}</div>
@@ -287,7 +285,7 @@ export function AppleSections() {
                 </div>
               </a>
               <a
-                href="https://wa.me/201026674029"
+                href="https://wa.me/201042193800"
                 target="_blank"
                 rel="noreferrer"
                 className="glass-strong rounded-2xl p-6 flex items-center gap-4 hover:bg-white/10 transition-colors group"
@@ -300,7 +298,7 @@ export function AppleSections() {
                     WhatsApp
                   </div>
                   <div className="font-medium mt-1 group-hover:text-white">
-                    +20 102 667 4029
+                    +20 1042193800
                   </div>
                 </div>
               </a>
@@ -337,7 +335,7 @@ export function AppleSections() {
                 </div>
               </a>
               <a
-                href="tel:+201026674029"
+                href="tel:+201042193800"
                 className="glass-strong rounded-2xl p-6 flex items-center gap-4 hover:bg-white/10 transition-colors group md:col-span-2"
               >
                 <div className="size-12 rounded-full bg-white/10 flex items-center justify-center">
@@ -348,7 +346,7 @@ export function AppleSections() {
                     Phone
                   </div>
                   <div className="font-medium mt-1 group-hover:text-white">
-                    +20 102 667 4029
+                    +20 1042193800
                   </div>
                 </div>
               </a>

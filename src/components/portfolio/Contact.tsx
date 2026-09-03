@@ -26,13 +26,13 @@ const CONTACT_LINKS = [
     icon: MessageCircle,
     label: "WhatsApp",
     handle: "+20 102 667 4029",
-    href: "https://wa.me/201026674029",
+    href: "https://wa.me/201042193800",
   },
   {
     icon: Phone,
     label: "Phone",
-    handle: "+20 102 667 4029",
-    href: "tel:+201026674029",
+    handle: "+20 1042193800",
+    href: "tel:+201042193800",
   },
   {
     icon: Linkedin,

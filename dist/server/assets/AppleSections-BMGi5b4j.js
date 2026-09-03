@@ -250,7 +250,7 @@ function AppleSections() {
         /* @__PURE__ */ jsxRuntimeExports.jsxs(
           "a",
           {
-            href: "https://wa.me/201026674029",
+            href: "https://wa.me/201042193800",
             target: "_blank",
             rel: "noreferrer",
             className: "glass-strong rounded-2xl p-6 flex items-center gap-4 hover:bg-white/10 transition-colors group",
@@ -298,13 +298,13 @@ function AppleSections() {
         /* @__PURE__ */ jsxRuntimeExports.jsxs(
           "a",
           {
-            href: "tel:+201026674029",
+            href: "tel:+201042193800",
             className: "glass-strong rounded-2xl p-6 flex items-center gap-4 hover:bg-white/10 transition-colors group md:col-span-2",
             children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "size-12 rounded-full bg-white/10 flex items-center justify-center", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Phone, { className: "h-5 w-5" }) }),
               /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
                 /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "text-xs uppercase tracking-widest text-muted-foreground", children: "Phone" }),
-                /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "font-medium mt-1 group-hover:text-white", children: "+20 102 667 4029" })
+                /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "font-medium mt-1 group-hover:text-white", children: "+20 1042193800" })
               ] })
             ]
           }
