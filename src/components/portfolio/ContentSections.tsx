@@ -37,7 +37,7 @@ export function ContentSections() {
               consensus glue, smart contracts and the backend rails that make them feel instant.
             </p>
             <p className="mt-6 text-muted-foreground">
-              Eight years across Rust, Solidity and distributed systems. I optimize for
+              Two years across Rust, Solidity and distributed systems. I optimize for
               correctness first, throughput second, and developer joy throughout.
             </p>
           </div>
@@ -108,7 +108,7 @@ export function ContentSections() {
       <section id="experience" className="relative px-6 md:px-12 py-24">
         <div className="max-w-6xl mx-auto">
           <p className="font-mono text-xs tracking-[0.3em] text-muted-foreground mb-4">/ TIMELINE</p>
-          <h2 className="font-display italic text-4xl md:text-5xl mb-14">Eight years, four chapters.</h2>
+          <h2 className="font-display italic text-4xl md:text-5xl mb-14">Two years, four chapters.</h2>
           <div className="space-y-2">
             {experience.map((e, i) => (
               <motion.div

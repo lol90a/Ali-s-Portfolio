@@ -133,7 +133,7 @@ export function AppleSections() {
               Engineering quiet machines that move billions.
             </h2>
             <p className="mt-8 text-lg md:text-xl text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto">
-              Eight years across Rust, Solidity and distributed systems. I optimize for
+              Two years across Rust, Solidity and distributed systems. I optimize for
               correctness first, throughput second - and developer joy throughout.
             </p>
           </Reveal>

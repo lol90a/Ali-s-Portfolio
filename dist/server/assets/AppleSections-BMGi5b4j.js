@@ -150,7 +150,7 @@ function AppleSections() {
       /* @__PURE__ */ jsxRuntimeExports.jsxs(Reveal, { children: [
         /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-xs tracking-[0.25em] uppercase text-muted-foreground mb-6", children: "About" }),
         /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { className: "text-[clamp(2rem,5vw,4rem)] font-semibold tracking-tight leading-[1.05] text-gradient", children: "Engineering quiet machines that move billions." }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-8 text-lg md:text-xl text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto", children: "Eight years across Rust, Solidity and distributed systems. I optimize for correctness first, throughput second - and developer joy throughout." })
+        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-8 text-lg md:text-xl text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto", children: "Two years across Rust, Solidity and distributed systems. I optimize for correctness first, throughput second - and developer joy throughout." })
       ] }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Reveal, { delay: 0.15, children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-16 glass-strong rounded-3xl p-10 grid grid-cols-3 gap-6 text-left", children: [
         { k: "3+", v: "Years engineering" },
