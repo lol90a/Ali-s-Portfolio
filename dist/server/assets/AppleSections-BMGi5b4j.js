@@ -153,9 +153,8 @@ function AppleSections() {
         /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-8 text-lg md:text-xl text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto", children: "Eight years across Rust, Solidity and distributed systems. I optimize for correctness first, throughput second - and developer joy throughout." })
       ] }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Reveal, { delay: 0.15, children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-16 glass-strong rounded-3xl p-10 grid grid-cols-3 gap-6 text-left", children: [
-        { k: "8+", v: "Years engineering" },
-        { k: "$120M", v: "Value secured" },
-        { k: "30+", v: "Protocols shipped" }
+        { k: "3+", v: "Years engineering" },
+
       ].map((s) => /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
         /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "text-3xl md:text-4xl font-semibold text-white", children: s.k }),
         /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "text-xs uppercase tracking-widest text-muted-foreground mt-2", children: s.v })

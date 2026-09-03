@@ -141,9 +141,7 @@ export function AppleSections() {
           <Reveal delay={0.15}>
             <div className="mt-16 glass-strong rounded-3xl p-10 grid grid-cols-3 gap-6 text-left">
               {[
-                { k: "8+", v: "Years engineering" },
-                { k: "$120M", v: "Value secured" },
-                { k: "30+", v: "Protocols shipped" },
+                { k: "3+", v: "Years engineering" },
               ].map((s) => (
                 <div key={s.v}>
                   <div className="text-3xl md:text-4xl font-semibold text-white">{s.k}</div>
